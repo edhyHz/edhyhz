@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá! Eu sou Edhy Henrique 👋
 
-<!--
-**edhyHz/edhyhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação, interessado em desenvolvimento Backend.
 
-Here are some ideas to get you started:
+Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de aplicações utilizando Java e Spring Boot, buscando evoluir constantemente através de projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e ferramentas
+
+- Java
+- Spring Boot
+- SQL
+- MySQL
+- Git e GitHub
+- REST APIs
+
+### 📚 Atualmente estudando
+
+- Desenvolvimento Backend com Java
+- Spring Boot e arquitetura REST
+- Boas práticas de programação
+- Banco de dados e integração de sistemas
+
+### 📂 Projetos
+
+Aqui você encontrará projetos pessoais e acadêmicos, desenvolvidos com o objetivo de colocar em prática meus conhecimentos e evoluir como desenvolvedor.
+
+### 📫 Contato
+
+- LinkedIn: [Seu LinkedIn]
+- GitHub: [edhyhz]

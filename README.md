@@ -26,5 +26,5 @@ Aqui você encontrará projetos pessoais e acadêmicos, desenvolvidos com o obje
 
 ### 📫 Contato
 
-- LinkedIn: [Seu LinkedIn]
+- LinkedIn: www.linkedin.com/in/edhyHenrique
 - GitHub: [edhyhz]
